@@ -19,7 +19,7 @@
         {
 			"type": "button",
 			"label": "Jump to Products",
-			"action": "/products/"
+			"action": "/Scotch-Sauce-Website/products/"
 		},
         {
             "type": "separator"
@@ -42,12 +42,12 @@
 		{
 			"type": "button",
 			"label": "Check out our Sauces",
-			"action": "/products/sauces"
+			"action": "/Scotch-Sauce-Website/products/sauces"
 		},
 		{
 			"type": "button",
 			"label": "All-new Sauced-Up Jerky!",
-			"action": "/products/jerky"
+			"action": "/Scotch-Sauce-Website/products/jerky"
 		},
         {
             "type": "separator"
@@ -55,12 +55,12 @@
         {
 			"type": "button",
 			"label": "Read Our Story",
-			"action": "/ourstory"
+			"action": "/Scotch-Sauce-Website/ourstory"
 		},
         {
 			"type": "button",
 			"label": "Get to know our Local Partners",
-			"action": "/partners"
+			"action": "/Scotch-Sauce-Website/partners"
 		},
 		{
 			"type": "paragraph",
@@ -90,7 +90,7 @@
         },
         {
 			"type": "paragraph",
-			"text": "©2025 Scotch Sauce LLC",
+			"text": "Content ©2025 Scotch Sauce LLC\nThis website built by Michael Avrie",
             "style": {
                 "text-align": "center"
             }
