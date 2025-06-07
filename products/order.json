@@ -1,0 +1,26 @@
+{
+	"format": "particle",
+	"title": "Get Happy!",
+	"content": [
+        {
+            "type": "paragraph",
+            "text": "_Find us on the World Wide Web!_",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "blockquote",
+            "text": "Sign up for emails and get 10% off your order!\nFree shipping on U.S. orders over $75."
+        },
+        {
+            "type": "image",
+            "width": 37,
+            "height": 37,
+            "pixels": "yl yl yl yl dGcBaCcBaGd dAeAdAaFcAeAd dAaCaAaBaAaAaAdAaAaCaAd dAaCaAaAaBbBaAbAaAaCaAd dAaCaAaBaAcBaCaAaCaAd dAeAaBbAeAaAaAeAd dGaAaAaAaAaAaAaAaGd lAbBaAaAbBl dAaEeAcBaAbEf dAcAbAaBbCcFcAd fEbHdAbAh eAcAaGaAfDaAe eBaEaBbBaAaAcAaBf dEbAaBaAbBaGcAd dAaCaAaAbAeBaDaBf dAaBgAbAaAcBaAcAe fAbBaAcAdAgBf dAcBdAbCbCaCaAaAd dAaCaAbAaAaDcBaAbAf dAbAaAaDaBbAbAbAaAbAe dAcAaAaAcAaAbBaEaCd lAhBaAcEd dGbAaAcCaBaAaCf dAeAaAbBaCaCcAbAe dAaCaAaDeAbEaBe dAaCaAaBaBaAaAaBeDd dAaCaAaBaAbFaGe dAeAcAaCaAbCaAaAaAe dGaAbDbAaAdCf yl yl yl yl",
+            "style": {
+                "scale": 3
+            }
+        }
+    ]
+}
