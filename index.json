@@ -17,11 +17,16 @@
 			}
 		},
         {
+			"type": "button",
+			"label": "Jump to Products",
+			"action": "/products/"
+		},
+        {
             "type": "separator"
         },
 		{
 			"type": "paragraph",
-			"text": "_3 Reasons Why *You'll Love* Happy Boy_",
+			"text": "_3 Reasons Why_ *You'll Love* _Happy Boy_",
             "style": {
                 "text-align": "center"
             }
@@ -29,16 +34,10 @@
         {
 			"type": "list",
 			"items": [
-				"*It's for Everyone*",
-				"Some people love heat. Others crave flavor. Then there are those who want both. Happy Boy is an original hot sauce recipe that you're sure to love!",
-                "*It's Perfect for Every Meal*",
-                "Breakfast, lunch, and dinner — you'll always find another way to use Happy Boy. Unleash your creative side and start making all your meals more exciting!",
-                "*You'll Want It Every Day*",
-                "This pepper sauce hits different. Happy Boy has a crave-worthy flavor that's equal parts spicy, savory, zesty, and sweet!"
-			],
-            "style": {
-				"margin-bottom": 8
-			}
+				"*It's for Everyone*\nSome people love heat. Others crave flavor. Then there are those who want both. Happy Boy is an original hot sauce recipe that you're sure to love!",
+                "*It's Perfect for Every Meal*\nBreakfast, lunch, and dinner — you'll always find another way to use Happy Boy. Unleash your creative side and start making all your meals more exciting!",
+                "*You'll Want It Every Day*\nThis pepper sauce hits different. Happy Boy has a crave-worthy flavor that's equal parts spicy, savory, zesty, and sweet!"
+			]
 		},
         {
 			"type": "blockquote",
@@ -49,12 +48,12 @@
 		},
 		{
 			"type": "button",
-			"label": "Check Out Our Sauces",
+			"label": "Check out our Sauces",
 			"action": "/products/sauces"
 		},
 		{
 			"type": "button",
-			"label": "All-New _Sauced-Up Jerky_!",
+			"label": "All-new Sauced-Up Jerky!",
 			"action": "/products/jerky"
 		},
         {
@@ -63,16 +62,19 @@
         {
 			"type": "button",
 			"label": "Read Our Story",
-			"action": "/ourstory"
+			"action": "ourstory"
 		},
         {
 			"type": "button",
 			"label": "Get to know our Local Partners",
-			"action": "/partners"
+			"action": "partners"
 		},
 		{
 			"type": "paragraph",
-			"text": "Find us on the World Wide Web!"
+			"text": "Thank you for visiting our site! <3\n_Find us on the World Wide Web!_",
+            "style": {
+                "text-align": "center"
+            }
 		},
 		{
             "type": "image",
@@ -82,6 +84,23 @@
             "style": {
                 "scale": 3
             }
-        }
+        },
+        {
+			"type": "paragraph",
+			"text": "*ScotchSauceHotSauce.com*",
+            "style": {
+                "text-align": "center"
+            }
+		},
+        {
+            "type": "separator"
+        },
+        {
+			"type": "paragraph",
+			"text": "(C)2025 Scotch Sauce LLC",
+            "style": {
+                "text-align": "center"
+            }
+		}
 	]
 }
