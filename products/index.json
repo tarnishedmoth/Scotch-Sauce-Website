@@ -6,7 +6,7 @@
 			"type": "paragraph",
 			"text": "_Your new 'go-to' hot sauce.",
             "style": {
-				"margin-top": 16
+				"margin-top": 40
 			}
 		},
         {
@@ -18,19 +18,19 @@
 			"type": "paragraph",
 			"text": "_Smooth, and highly dippable.",
             "style": {
-				"margin-top": 16
+				"margin-top": 40
 			}
 		},
         {
 			"type": "button",
-			"label": "Happy Boy",
+			"label": "Garlic Parmesan Happy Boy",
 			"action": "/Scotch-Sauce-Website/products/garlicparmhappyboy"
 		},
         {
 			"type": "paragraph",
 			"text": "_Need a bit more _heat_ with your flavor?",
             "style": {
-				"margin-top": 16
+				"margin-top": 40
 			}
 		},
         {
