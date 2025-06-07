@@ -1,0 +1,87 @@
+{
+	"format": "particle",
+	"title": "Scotch Sauce Happy Boy",
+	"content": [
+        {
+            "type": "image",
+            "width": 240,
+            "height": 240,
+            "pixels": "YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYHyYYYYG YYYYBylYYYYA YYYWytYYYV YYYSqSqYYYR YYYPmYHmYYYO YYYMlNmNlYYYL YYYKjJydJjYYYJ YYYHjHynHjYYYG YYYFiGyvGiYYYE YYYDhGoAcEaEwGhYYYC YYYBhFmFdCcCjDmFhYYYA YYYhFnGdCcCiFoEhYYX YYXgEiDcCdAdCcChCbBqEgYYW YYVgEhGcBjIhDbAgBjEgYYU YYTgEgFcAbCjIiDhClEgYYS YYSfEhCbCeCjCcCjDfDfAgEfYYR YYQgDkBbCeDeBbCcCgBbDdEfCgDfYYQ YYPfDfCdBbCfCdCbCcCgBcCdBaBfDhDfYYO YYOfDeGgBfDbDaEaEfCbCcGeDbAfDfYYN YYMfDfCbDfCfGaArGcHdCdCfDeYYM YYLfDfCdDeCiByCbCdCdCdDfDfYYK YYKfChCeCfDynDcCcCeBjCfYYJ YYJeDiCeCeDyuDcCdCkDeYYI YYIeDeBcCeCeAyxEbBeBeCeDeYYH YYHeCdEcCeCyylBdCcGeCeYYG YYGeCdGbDdByymCcBcEaCeCeYYF YYFeCdChHyyoFcDdDdCeYYE YYEeCeBkEyyrCdCfBfCeYYD YYDeCfCeByyyhCeCgCeYYC YYCeCgCfByyygCfAcBdCeYYB YYBeChCfCyyyfCkBdCeYYA YYAeCcCcDdByyyiBjDdCeYY YYeCcEcHyyykFdFdCeYX YXeCcBhFyyymEcDbBdCeYW YWeCdBbEyyyvBcDdBdCdYW YWdCeJyyywAaKeCdYV YVdCfJyyywEbBaBgCdYU YUeBiBdByyyxCbBlBeYT YTeCnByyyyaCoCdYT YTdCkFyyyybCaBlCdYS YSdCmDyyyyeDmCdYR YReBoAyyyyhBoBdYR YRdCyyyyypCdYQ YQdCyyyyyrCdYP YQdByyyyytBdYP YPdCyyyyytCdYO YOeByyyyyvBdYO YOdByyyyyxBdYN YNdCyyyyyxCdYM YNdByyyyyyaBdYM YMdCydGcGeMdMfMeGcHycCdYL YMdBydHcGeMdOdNdHbHydBdYL YLdCydHcGeMdPcOcHbHydCdYK YLdByeHcGeMdPcPbHbGyfBdYK YKdCyeHcGeMdQbQaHbGyfCdYJ YKdByfHcGdNdQbQbGaHygBdYJ YKcCyfHcGdNdQbQbGaHygCcYJ YJdBygHcGdNdHaIaHaIaGaGyiBdYI YJdBygHcGdNdHbHaHbHaOyiBdYI YIdCygHcGdOcHbHaHbHbNyiCcYI YIdByhHcGdOcHbHaHbHbNyjBdYH YIcCyhHcGdOcHbHaHbHbNyjCcYH YHdByiRdOcHbHaHbHbMylBdYG YHdByiRdGaGcHbHaHbHcLylBdYG YHcCyiRdGaGcHaIaHaIcLylCcYG YHcByjRdGaGcQbQdLymBcYG YGdByjRcHaGcQbQdKynBdYF YGcCyjRcHaGcQbQeJynCcYF YGcCyjRcHaGcPcPfJynCcYF YFdBykRcHaHbPcPfJyoBdYE YFdBykHcGcGbHbOdOgIypBdYE YFcCykHcGcGbHbMfMjHypCcYE YFcCykHcGcGbHbHkHoHypCcYE YFcBylHcGcQbHkHoHyqBcYE YEdBylHcGcQbHkHoHyqBdYD YEdBylHcGbRbHkHoHyqBdYD YEcCylHcGbRbHkHoHyqCcYD YEcCylHcGbRbHkHoHyqCcYD YEcBymHcGbRbHkHoHyrBcYD YEcBymHcGbRbHkHoHyrBcYD YDdBymHcGbHcGbHkHoHyrBdYC YDdBymHcGbHcHaHkHoHyrBdYC YDdBymHcGbHcHaHkHoHyrBdYC YDdBymHcGbGdHaHkHoHyrBdYC YDcCymHcGbGdHaHkHoHyrCcYC YDcCynGcGbGeFcFmFqFysCcYC YDcCyyyyyyuCcYC YDcCyyyyyyuCcYC YDcCyyyyyyuCcYC YDcByyyyyywBcYC YDcByyyyyywBcYC YDcByyyyyywBcYC YDcByyyyyywBcYC YDcByyiLlGgGcGyyiBcYC YDcCyyhNhKdHcHyygCcYC YDcCyyhPeMdGcGyyhCcYC YDcCyyhPdOcHaHyyhCcYC YDcCyyhQcPbHaHyyhCcYC YDcCyyhQbQbHaHyyhCcYC YDdByyhQbRbGaGyyiBdYC YDdByyhHbGbHaIbGaGyyiBdYC YDdByyhHaHbHbHbGaGyyiBdYC YDdByyhHaHbHbHbOyyiBdYC YEcByyhHaHbHbHcMyyjBcYD YEcByyhHaHbHbHcMyyjBcYD YEcCyygHaHbHbHcMyyiCcYD YEcCyygQbHbHcMyyiCcYD YEdByygPcHbHcMyyiBdYD YEdByygPcHbHdKyyjBdYD YFcByygOdHbHdKyyjBcYE YFcCyyfPcHbHdKyyiCcYE YFcCyyfQbHbHdKyyiCcYE YFdByyfQbHbHeIyyjBdYE YFdByyfHbGbHbHeIyyjBdYE YGcCyyeHbHaHbHeIyyiCcYF YGcCyyeHbHaHbHeIyyiCcYF YGdByyeHbHaHbHfGyyjBdYF YHcByyeHbHaHbHfGyyjBcYG YHcCyydHbHaHbHfGyyiCcYG YHdByydHbHaHbHfGyyiBdYG YHdByydHbHaHbHfGyyiBdYG YIcCyycHaIaHaIfGyyhCcYH YIdByycQbQgGyyhBdYH YIdCyybQbQgGyygCdYH YJdByybQcPgGyygBdYI YJdByybPdOhGyygBdYI YKcCyyaPeMiGyyfCcYJ YKdByyaNhKjGyyfBdYJ YKdCyyMkHkGyyeCdYJ YLdByyyyyyeBdYK YLdCyyyyyycCdYK YMdByyyyyycBdYL YMdCyyyyyyaCdYL YNdByyyyyyaBdYM YNdCyyyyyxCdYM YOdByyyyyxBdYN YOeByvEcAoAdCyyrBdYO YPdCytJbBkBcCyyqCdYO YQdBytBdCbBfBeGyyqBdYP YQdCysBdBcBfBfEyyqCdYP YRdCyrEaBcAbBaDiBcDaBbAbCbCyrCdYQ YReBysDaBbBaDaCfBaBbEaBaBaDaDyrBdYR YSdCyrBbIaBaBfDaBaBaBaBaBaBaCaByqCdYR YTdCrBuCbHbDfBbFaBaBaBaBbEyqCdYS YTeCoEsBdBbDaBaBaBcAcFaBaBaBaBcCaBynCdYT YUeBoCaBrBcBcDaDbBcAeDaDbDcBcBrCrBeYT YVeBnCbBqBcBbBaJdBcBaVsEoBeYU YWdCjBaCbBqFcBbBcCeGaLaCaDtGlCdYV YWeCiBaCaBsDdBqCytHiCdYW YXeCgBcCydByyoBaGfCeYW YYeCfCbCcFuByyfEcIfCeYX YYAeCfCaCbHyyybGcCbBfCeYY YYBeCfFaDdByyxCcCcBcAfCeYYA YYCeCgBcCeCyywDbCcDgCeYYB YYDeCkCeBbCyytCbBeCfCeYYC YYEeCjBfBbEyysEeBgCeYYD YYFeCiBjFyysCnCeYYE YYGeChChDaCyyeBkCmCeYYF YYHeChGcCbCyycDlEiCeYYG YYIeDgFbIfBytCnDgDeYYH YYJeDiBcHfCymEcBmChDeYYI YYKfClHfDdDwCdFcBlBhCfYYJ YYLfDiDaCfEeDbDbBcBeGcGaBtDfYYK YYMfDiDaBfBaBeDcNbCbDcIdBmDfYYL YYOfDiBaCdBbBeEbBaBbCbBaCdDbBaGcCjDfYYN YYPfDkCcGeEbBaBbCcAaCeCbCbEcCiDfYYO YYQgDjFcCdBaDaBeCeCeCcBcDdBgDgYYP YYSgDkDcCcBbCaBeCeCeCcBdCdAfDgYYR YYTgEkBaEcBbEfCeCeCcDnEgYYS YYVgEmDcBcDfCeDdBdCmEgYYU YYXgEnBaDbDfCfIdAmEgYYW YYYhFoCcCeEgEqFhYYX YYYBhFtBeFyaFhYYYA YYYDhGyycGhYYYC YYYFiHytHiYYYE YYYHjHynHjYYYG YYYKjKybKjYYYJ YYYMlOkOlYYYL YYYPmYHmYYYO YYYSrQrYYYR YYYWytYYYV YYYYBylYYYYA YYYYHyYYYYG YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO YYYYYYYYYO"
+        },
+		{
+			"type": "paragraph",
+			"text": "*Everyone, Every Meal, Every Day*\nPremium all-purpose pepper sauce crafted in Scranton, Pennsylvania.",
+			"style": {
+				"text-align": "center",
+				"margin-bottom": 30
+			}
+		},
+        {
+            "type": "separator"
+        },
+		{
+			"type": "paragraph",
+			"text": "_3 Reasons Why *You'll Love* Happy Boy_",
+            "style": {
+                "text-align": "center"
+            }
+		},
+        {
+			"type": "list",
+			"items": [
+				"*It's for Everyone*",
+				"Some people love heat. Others crave flavor. Then there are those who want both. Happy Boy is an original hot sauce recipe that you're sure to love!",
+                "*It's Perfect for Every Meal*",
+                "Breakfast, lunch, and dinner — you'll always find another way to use Happy Boy. Unleash your creative side and start making all your meals more exciting!",
+                "*You'll Want It Every Day*",
+                "This pepper sauce hits different. Happy Boy has a crave-worthy flavor that's equal parts spicy, savory, zesty, and sweet!"
+			],
+            "style": {
+				"margin-bottom": 8
+			}
+		},
+        {
+			"type": "blockquote",
+			"text": "Get free shipping on U.S. orders over $75!",
+            "style": {
+                "text-align": "center"
+            }
+		},
+		{
+			"type": "button",
+			"label": "Check Out Our Sauces",
+			"action": "/products/sauces"
+		},
+		{
+			"type": "button",
+			"label": "All-New _Sauced-Up Jerky_!",
+			"action": "/products/jerky"
+		},
+        {
+            "type": "separator"
+        },
+        {
+			"type": "button",
+			"label": "Read Our Story",
+			"action": "/ourstory"
+		},
+        {
+			"type": "button",
+			"label": "Get to know our Local Partners",
+			"action": "/partners"
+		},
+		{
+			"type": "paragraph",
+			"text": "Find us on the World Wide Web!"
+		},
+		{
+            "type": "image",
+            "width": 37,
+            "height": 37,
+            "pixels": "yl yl yl yl dGcBaCcBaGd dAeAdAaFcAeAd dAaCaAaBaAaAaAdAaAaCaAd dAaCaAaAaBbBaAbAaAaCaAd dAaCaAaBaAcBaCaAaCaAd dAeAaBbAeAaAaAeAd dGaAaAaAaAaAaAaAaGd lAbBaAaAbBl dAaEeAcBaAbEf dAcAbAaBbCcFcAd fEbHdAbAh eAcAaGaAfDaAe eBaEaBbBaAaAcAaBf dEbAaBaAbBaGcAd dAaCaAaAbAeBaDaBf dAaBgAbAaAcBaAcAe fAbBaAcAdAgBf dAcBdAbCbCaCaAaAd dAaCaAbAaAaDcBaAbAf dAbAaAaDaBbAbAbAaAbAe dAcAaAaAcAaAbBaEaCd lAhBaAcEd dGbAaAcCaBaAaCf dAeAaAbBaCaCcAbAe dAaCaAaDeAbEaBe dAaCaAaBaBaAaAaBeDd dAaCaAaBaAbFaGe dAeAcAaCaAbCaAaAaAe dGaAbDbAaAdCf yl yl yl yl",
+            "style": {
+                "scale": 3
+            }
+        }
+	]
+}
