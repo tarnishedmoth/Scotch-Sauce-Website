@@ -1,0 +1,48 @@
+{
+	"format": "particle",
+	"title": "Sample website",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "*Welcome to the interwebs!*",
+			"style": {
+				"text-align": "center",
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "Hello world!\nWe support line breaks *and some basic styling!*"
+		},
+		{
+			"type": "button",
+			"label": "Go to the pond folder",
+			"action": "/pond/"
+		},
+		{
+			"type": "button",
+			"label": "Go to the duck file",
+			"action": "/pond/duck"
+		},
+		{
+			"type": "paragraph",
+			"text": "The browser also supports inline images. Behold, a heart!"
+		},
+		{
+			"type": "image",
+			"width": 7,
+			"height": 7,
+			"pixels": "011011 G G G 011111 00111 0001",
+			"style": {
+				"scale": 3
+			}
+		},
+		{
+			"type": "list",
+			"items": [
+				"*Reason 1 ducks are awesome:* They cuack.",
+				"*Reason 2 ducks are awesome:* They waddle."
+			]
+		}
+	]
+}
