@@ -39,13 +39,6 @@
                 "*You'll Want It Every Day*\nThis pepper sauce hits different. Happy Boy has a crave-worthy flavor that's equal parts spicy, savory, zesty, and sweet!"
 			]
 		},
-        {
-			"type": "blockquote",
-			"text": "Get free shipping on U.S. orders over $75!",
-            "style": {
-                "text-align": "center"
-            }
-		},
 		{
 			"type": "button",
 			"label": "Check out our Sauces",
