@@ -1,5 +1,11 @@
 {
 	"format": "particle",
 	"title": "Extremely Happy Boy!!",
-	"content": []
+	"content": [
+        {
+			"type": "button",
+			"label": "Get Happy!",
+			"action": "/Scotch-Sauce-Website/order"
+		}
+    ]
 }
