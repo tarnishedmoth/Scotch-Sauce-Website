@@ -17,7 +17,7 @@
 			"text": "*What is Happy Boy Hot Sauce?*",
 			"style": {
 				"text-align": "center",
-                "margin-top": 40,
+                "margin-top": 10,
 				"margin-bottom": 40
 			}
 		},
@@ -105,7 +105,7 @@
         {
             "type": "list",
             "items": [
-                "*Aged cayenne pepper sauce:*\n_(aged red peppers, vinegar, salt, natural flavor, xanthan gum, garlic)_\n        Every good hot sauce needs a strong foundation. Happy Boy uses a fermented cayenne base with a familiar flavor and heat level. But what about that xanthan gum? It's a safe, natural food-grade solution for thickening foods and emulsifying ingredients. Want to know more? We trust this article from Healthline:\n*https://www.healthline.com/nutrition/xanthan-gum*",
+                "*Aged cayenne pepper sauce:*\n_(aged red peppers, vinegar, salt, natural flavor, xanthan gum, garlic)_\n        Every good hot sauce needs a strong foundation. Happy Boy uses a fermented cayenne base with a familiar flavor and heat level. But what about that xanthan gum? It's a safe, natural food-grade solution for thickening foods and emulsifying ingredients. Want to know more? We like this article from Healthline:\n*https://www.healthline.com/nutrition/xanthan-gum*",
                 "*Brown sugar:* No high fructose corn syrup here. Just good ol’ brown sugar!",
                 "*Salted butter:* Butter, from dairy cows.",
                 "*Garlic:* Plenty of freshly minced garlic goes into every batch of Happy Boy. You can actually see it in every bottle!",
