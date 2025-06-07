@@ -55,12 +55,12 @@
         {
 			"type": "button",
 			"label": "Read Our Story",
-			"action": "ourstory"
+			"action": "/ourstory"
 		},
         {
 			"type": "button",
 			"label": "Get to know our Local Partners",
-			"action": "partners"
+			"action": "/partners"
 		},
 		{
 			"type": "paragraph",
