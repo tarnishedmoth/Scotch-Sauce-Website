@@ -174,17 +174,42 @@
             "type": "separator"
         },
         {
-            "type": "paragraph",
-            "text": "_Find us on the World Wide Web!_"
-        },
-        {
+			"type": "paragraph",
+			"text": "_Find us on the World Wide Web!_",
+            "style": {
+                "text-align": "center",
+				"margin-bottom": 10
+            }
+		},
+		{
             "type": "image",
             "width": 37,
             "height": 37,
             "pixels": "yl yl yl yl dGcBaCcBaGd dAeAdAaFcAeAd dAaCaAaBaAaAaAdAaAaCaAd dAaCaAaAaBbBaAbAaAaCaAd dAaCaAaBaAcBaCaAaCaAd dAeAaBbAeAaAaAeAd dGaAaAaAaAaAaAaAaGd lAbBaAaAbBl dAaEeAcBaAbEf dAcAbAaBbCcFcAd fEbHdAbAh eAcAaGaAfDaAe eBaEaBbBaAaAcAaBf dEbAaBaAbBaGcAd dAaCaAaAbAeBaDaBf dAaBgAbAaAcBaAcAe fAbBaAcAdAgBf dAcBdAbCbCaCaAaAd dAaCaAbAaAaDcBaAbAf dAbAaAaDaBbAbAbAaAbAe dAcAaAaAcAaAbBaEaCd lAhBaAcEd dGbAaAcCaBaAaCf dAeAaAbBaCaCcAbAe dAaCaAaDeAbEaBe dAaCaAaBaBaAaAaBeDd dAaCaAaBaAbFaGe dAeAcAaCaAbCaAaAaAe dGaAbDbAaAdCf yl yl yl yl",
             "style": {
-                "scale": 3
+                "scale": 3,
+				"margin-top": 0,
+				"margin-bottom": 0
             }
-        }
+        },
+        {
+			"type": "paragraph",
+			"text": "*ScotchSauceHotSauce.com*",
+            "style": {
+                "text-align": "center",
+				"margin-top": 10
+            }
+		},
+        {
+            "type": "separator"
+        },
+        {
+			"type": "paragraph",
+			"text": "Content ©2025 Scotch Sauce LLC\nThis website built by Michael Avrie",
+            "style": {
+                "text-align": "center",
+				"margin-bottom": 80
+            }
+		}
     ]
 }
