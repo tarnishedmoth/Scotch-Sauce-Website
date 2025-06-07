@@ -27,7 +27,7 @@
 			"text": "*What is Happy Boy Hot Sauce?*",
 			"style": {
 				"text-align": "center",
-                "margin-top": "40",
+                "margin-top": 40,
 				"margin-bottom": 40
 			}
 		},
@@ -40,7 +40,7 @@
 			"text": "*A Truly Balanced Hot Sauce*",
 			"style": {
 				"text-align": "center",
-                "margin-top": "40",
+                "margin-top": 40,
 				"margin-bottom": 40
 			}
 		},
@@ -73,7 +73,7 @@
 			"text": "*Real Ingredients Make All the Difference*",
 			"style": {
 				"text-align": "center",
-                "margin-top": "40",
+                "margin-top": 40,
 				"margin-bottom": 40
 			}
 		},
