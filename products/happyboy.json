@@ -68,7 +68,7 @@
 		{
 			"type": "button",
 			"label": "Go Back",
-			"action": "/Scotch-Sauce-Website/"
+			"action": "/Scotch-Sauce-Website/products/"
 		}
     ]
 }
