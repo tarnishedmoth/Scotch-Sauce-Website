@@ -39,8 +39,14 @@
 			"action": "/Scotch-Sauce-Website/products/extremelyhappyboy"
 		},
         {
-            "type": "separator"
-        },
+			"type": "image",
+			"width": 200,
+			"height": 8,
+			"pixels": "YYYYYYYY aBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBa YYYYYYYY AbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbA YYYYYYYY aBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBa YYYYYYYY AbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbA",
+			"style": {
+                "scale": 2
+            }
+		},
         {
 			"type": "paragraph",
 			"text": "Content ©2025 Scotch Sauce LLC",
