@@ -63,7 +63,7 @@
 			"style": {
 				"text-align": "center",
                 "margin-top": 20,
-				"margin-bottom": 40
+				"margin-bottom": 20
 			}
 		},
         {
@@ -93,12 +93,23 @@
             }
         },
         {
+            "type": "image",
+            "width": 200,
+            "height": 8,
+            "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0,
+                "scale": 2
+            }
+        },
+        {
 			"type": "paragraph",
 			"text": "*Real Ingredients Make All the Difference*",
 			"style": {
 				"text-align": "center",
                 "margin-top": 40,
-				"margin-bottom": 40
+				"margin-bottom": 20
 			}
 		},
         {
@@ -127,7 +138,7 @@
             "style": {
 				"text-align": "center",
                 "margin-top": 40,
-				"margin-bottom": 40
+				"margin-bottom": 20
 			}
         },
         {
