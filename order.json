@@ -18,7 +18,7 @@
         },
         {
             "type": "paragraph",
-            "text": "As a _Thank You!_ for visiting our Constellations site here on PlayDate, please enjoy an extra 10% off your order. Just use the *Coupon Code* below when you checkout. Hope you love it!"
+            "text": "As a _Thank You!_ for visiting our Constellations site here on PlayDate, please enjoy an extra 10% off your order. Just use the *Coupon Code* below when you checkout. We hope you love it!"
         },
         {
             "type": "image",
@@ -53,11 +53,19 @@
         },
         {
             "type": "blockquote",
-            "text": "Sign up for our email newsletter and get 10% off your order!"
+            "text": "Sign up for our email newsletter and get 10% off your order!",
+            "style": {
+                "margin-top": 20,
+                "margin-bottom": 4
+            }
         },
         {
             "type": "blockquote",
-            "text": "Free shipping on U.S. orders over $75."
+            "text": "Free shipping on U.S. orders over $75.",
+            "style": {
+                "margin-top": 4,
+                "margin-bottom": 30
+            }
         },
         {
             "type": "paragraph",
