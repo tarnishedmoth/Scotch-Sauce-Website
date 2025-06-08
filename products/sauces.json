@@ -23,7 +23,7 @@
 		},
         {
             "type": "paragraph",
-            "text": "If you're anything like us, then a delicious hot sauce is something that truly makes you happy. We know the feeling, and that's why we crafted Happy Boy Hot Sauce to be your new go-to pepper sauce."
+            "text": "If you're anything like us, then a delicious hot sauce is something that truly makes you happy. We know the feeling, and that's why we crafted Happy Boy Hot Sauce to be your new go-to pepper sauce. Those who know, click below:"
         },
         {
 			"type": "button",
@@ -122,8 +122,10 @@
             "type": "paragraph",
             "text": "*Three Flavors to Try*",
             "style": {
-                "text-align": "center"
-            }
+				"text-align": "center",
+                "margin-top": 40,
+				"margin-bottom": 40
+			}
         },
         {
             "type": "paragraph",
