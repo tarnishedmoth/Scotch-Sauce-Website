@@ -1,10 +1,10 @@
 {
 	"format": "particle",
-	"title": "Shop - Garlic Parmesan Happy Boy",
+	"title": "Shop - Apparel",
 	"content": [
         {
 			"type": "button",
-			"label": "Get Happy!",
+			"label": "Order online!",
 			"action": "/Scotch-Sauce-Website/order"
 		},
         {
