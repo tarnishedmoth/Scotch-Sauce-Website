@@ -26,7 +26,7 @@
 			"type": "paragraph",
 			"text": "_Your new 'go-to' hot sauce.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -39,7 +39,7 @@
 			"type": "paragraph",
 			"text": "_Smooth, and highly dippable.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -52,7 +52,7 @@
 			"type": "paragraph",
 			"text": "_Need a bit more _heat_ with your flavor?",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -85,7 +85,7 @@
 			"type": "paragraph",
 			"text": "_Traditional beef jerky flavor, done better.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -98,7 +98,7 @@
 			"type": "paragraph",
 			"text": "_Spicy. Savory. Zesty. Sweet.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -111,7 +111,7 @@
 			"type": "paragraph",
 			"text": "_Mild. Buttery. Garlicky. Savory.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -124,7 +124,7 @@
 			"type": "paragraph",
 			"text": "_Hot. Savory. Zesty. Sweet.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
@@ -137,7 +137,7 @@
 			"type": "paragraph",
 			"text": "_Sticky sweetness balanced with savory goodness in every bite.",
             "style": {
-				"margin-top": 8,
+				"margin-top": 10,
                 "margin-bottom": 0
 			}
 		},
