@@ -4,9 +4,19 @@
 	"content": [
         {
 			"type": "paragraph",
+			"text": "*HOT SAUCES*",
+            "style": {
+                "text-align": "center",
+				"margin-top": 10,
+                "margin-bottom": 20
+			}
+		},
+        {
+			"type": "paragraph",
 			"text": "_Your new 'go-to' hot sauce.",
             "style": {
-				"margin-top": 40
+				"margin-top": 8,
+                "margin-bottom": 0
 			}
 		},
         {
@@ -18,7 +28,8 @@
 			"type": "paragraph",
 			"text": "_Smooth, and highly dippable.",
             "style": {
-				"margin-top": 40
+				"margin-top": 8,
+                "margin-bottom": 0
 			}
 		},
         {
@@ -30,7 +41,8 @@
 			"type": "paragraph",
 			"text": "_Need a bit more _heat_ with your flavor?",
             "style": {
-				"margin-top": 40
+				"margin-top": 8,
+                "margin-bottom": 0
 			}
 		},
         {
@@ -38,6 +50,17 @@
 			"label": "EXTREMELY Happy Boy",
 			"action": "/Scotch-Sauce-Website/products/extremelyhappyboy"
 		},
+        {
+            "type": "image",
+            "width": 200,
+            "height": 8,
+            "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc",
+            "style": {
+                "scale": 2,
+				"margin-top": 0,
+                "margin-bottom": 0
+			}
+        },
         {
 			"type": "image",
 			"width": 200,
