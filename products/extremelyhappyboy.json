@@ -1,10 +1,50 @@
 {
 	"format": "particle",
-	"title": "Shop - Extremely Happy Boy!!",
+	"title": "Shop - Extremely Happy Boy",
 	"content": [
         {
+			"type": "paragraph",
+			"text": "*EXTREMELY HAPPY BOY HOT SAUCE*\nAvailable in 5oz bottles.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "Need a bit more heat with your flavor? Extremely Happy Boy has you covered. It packs all the flavor of the original while cranking up the heat to a level that will grab your attention. If you like heat, then this sauce won't melt your face off — but you may need a second bottle soon!",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Ingredients:* Aged cayenne pepper sauce (aged red peppers, vinegar, salt natural flavor, xanthan gum, garlic), brown sugar, salted butter (cream, salt), garlic, salt, monosodium glutamate, Carolina Reaper peppers, onion powder, garlic powder, spices.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Allergen warning:* Contains milk.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "Natural separation may occur. Shake well before use. Please refrigerate after opening to maintain freshness.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
 			"type": "button",
-			"label": "Get Happy!",
+			"label": "Order now and Get Happy!",
 			"action": "/Scotch-Sauce-Website/order"
 		},
         {

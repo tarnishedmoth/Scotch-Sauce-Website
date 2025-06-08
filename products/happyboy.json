@@ -1,10 +1,50 @@
 {
 	"format": "particle",
-	"title": "Happy Boy",
+	"title": "Shop - Happy Boy",
 	"content": [
         {
+			"type": "paragraph",
+			"text": "*ORIGINAL HAPPY BOY HOT SAUCE*\nAvailable in 5oz and 12oz bottles.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "Happy Boy is your new 'go-to' hot sauce. It hits all the flavor notes — spicy, savory, zesty, sweet — without ever getting too hot. And we mean it when we say, 'Everyone, Every Meal, Every Day.' Try it on anything that needs some more excitement, or make it the star of the show as a wing sauce or marinade. You'll be happy you did!",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Ingredients:* Aged cayenne pepper sauce (aged red peppers, vinegar, salt natural flavor, xanthan gum, garlic), brown sugar, salted butter (cream, salt), garlic, salt, monosodium glutamate, onion powder, garlic powder, spices.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Allergen warning:* Contains milk.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "Natural separation may occur. Shake well before use. Please refrigerate after opening to maintain freshness.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
 			"type": "button",
-			"label": "Get Happy!",
+			"label": "Order now and Get Happy!",
 			"action": "/Scotch-Sauce-Website/order"
 		},
         {

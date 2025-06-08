@@ -3,8 +3,48 @@
 	"title": "Shop - Garlic Parmesan Happy Boy",
 	"content": [
         {
+			"type": "paragraph",
+			"text": "*GARLIC PARMESAN HAPPY BOY HOT SAUCE*\nAvailable in 12oz bottles.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "There's so much flavor packed into these bottles, it's almost hard to believe. One taste, and you'll see what we mean. The flavor profile is buttery, zesty, and sharp, with notes of fresh garlic and real parmesan cheese — no filler here. It's buttery, smooth, and highly dippable. Try it on some wings, and you may become obsessed. Give this craft hot sauce a try, and your taste buds will thank you!",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Ingredients:* Aged cayenne pepper sauce (aged red peppers, vinegar, salt, natural flavor, xanthan gum, garlic), salted butter (cream, salt), brown sugar, parmesan cheese (pasteurized part skim milk, cheese cultures, salt, enzymes), garlic, parsley, salt, monosodium glutamate, onion powder, garlic powder, spices.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Allergen warning:* Contains milk.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "Natural separation may occur. Shake well before use. Please refrigerate after opening to maintain freshness.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
 			"type": "button",
-			"label": "Get Happy!",
+			"label": "Order now and Get Happy!",
 			"action": "/Scotch-Sauce-Website/order"
 		},
         {
