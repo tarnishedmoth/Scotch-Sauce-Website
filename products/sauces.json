@@ -208,6 +208,7 @@
 			"text": "Content ©2025 Scotch Sauce LLC\nThis website built by Michael Avrie",
             "style": {
                 "text-align": "center",
+				"margin-top": 80,
 				"margin-bottom": 80
             }
 		}
