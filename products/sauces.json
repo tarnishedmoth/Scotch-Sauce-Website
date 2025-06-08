@@ -144,17 +144,17 @@
         },
         {
 			"type": "button",
-			"label": "Happy Boy",
+			"label": "Shop Happy Boy",
 			"action": "/Scotch-Sauce-Website/products/happyboy"
 		},
         {
 			"type": "button",
-			"label": "Garlic Parmesan Happy Boy",
+			"label": "Shop Garlic Parmesan Happy Boy",
 			"action": "/Scotch-Sauce-Website/products/garlicparmhappyboy"
 		},
         {
 			"type": "button",
-			"label": "Extremely Happy Boy",
+			"label": "Shop Extremely Happy Boy",
 			"action": "/Scotch-Sauce-Website/products/extremelyhappyboy"
 		},
         {
@@ -211,8 +211,13 @@
             "style": {
                 "text-align": "center",
 				"margin-top": 80,
-				"margin-bottom": 80
+				"margin-bottom": 0
             }
+		},
+		{
+			"type": "button",
+			"label": "Go Back",
+			"action": "/Scotch-Sauce-Website/"
 		}
     ]
 }

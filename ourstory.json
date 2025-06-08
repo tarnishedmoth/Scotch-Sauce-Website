@@ -69,7 +69,7 @@
         },
         {
             "type": "paragraph",
-            "text": "'_Gettin' to Know Brogan Scotch:\nCo-Owner of Scotch Sauce\nBased out of Scranton_'",
+            "text": "'Gettin' to Know Brogan Scotch:\nCo-Owner of Scotch Sauce\nBased out of Scranton'",
             "style": {
                 "text-align": "center",
                 "margin-top": 0,
@@ -92,9 +92,14 @@
 			"text": "Content ©2025 Scotch Sauce LLC\nThis particle built by Michael Avrie",
             "style": {
                 "text-align": "center",
-                "margin-top": 80,
-				"margin-bottom": 80
+				"margin-top": 80,
+				"margin-bottom": 0
             }
+		},
+		{
+			"type": "button",
+			"label": "Go Back",
+			"action": "/Scotch-Sauce-Website/"
 		}
 	]
 }
