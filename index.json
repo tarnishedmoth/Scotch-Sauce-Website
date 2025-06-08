@@ -33,12 +33,12 @@
 		},
 		{
 			"type": "image",
-			"width": 400,
-			"height": 16,
-			"pixels": "YYYYYYYYYYYYYYYY YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy",
-			"style": {
+			"width": 200,
+			"height": 8,
+			"pixels": "aCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaC YYYYYYYY BaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaA YYYYYYYY aCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaC YYYYYYYY BaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaA YYYYYYYY",			"style": {
 				"margin-top": 0,
-				"margin-bottom": 0
+				"margin-bottom": 0,
+				"scale": 2
 			}
 		},
 		{
