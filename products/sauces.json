@@ -133,6 +133,17 @@
             "text": "Our recipe is actually pretty simple when you look at it like that. But it’s the _precise balance_ of these elements that results in a truly unique hot sauce recipe that’s absolutely delicious, and enhances the taste of your food."
         },
         {
+            "type": "image",
+            "width": 200,
+            "height": 8,
+            "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0,
+                "scale": 2
+            }
+        },
+        {
             "type": "paragraph",
             "text": "*Three Flavors to Try*",
             "style": {
