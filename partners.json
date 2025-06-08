@@ -30,13 +30,24 @@
 				"margin-bottom": 16
 			}
 		},
+		{
+			"type": "paragraph",
+			"text": "_Find us on the World Wide Web!_",
+            "style": {
+                "text-align": "center",
+				"margin-top": 24,
+				"margin-bottom": 8
+            }
+		},
         {
             "type": "image",
             "width": 41,
             "height": 41,
             "pixels": "yp yp yp yp dGaBdDeAbGd dAeAbAaAdBaAaAdAeAd dAaCaAbBbAbAbDcAaCaAd dAaCaAaBdBaDbBaAaCaAd dAaCaAaEaAcFbAaCaAd dAeAaBbAcAbAfAeAd dGaAaAaAaAaAaAaAaAaAaGd lBbAaDcDl dAcAaEfAaDaFbAd eAaAaAdAaEeBaAcCe dAcAaGbCdBeAaAe dBbAcAaAaAaAbBbAaBl dBaDaAcDbAaAcAaDg eAbAbAaCdAbAcAaAaAaAg hAaAbCbAaAbAbBaBaAaBe dAaAbAaAdAaAbEbCj eBcAbAaBaBaAbDbAaAbAe eBaAhCaBbAaAeCe dAaAaAaDaAbBbAaAbBbAaAaAe dAbCbAbAaCdAaAaBaAcBd hCaAaAaAaAaAbAbCaAaBg dAbAcFeCbAfBe iCaAbDaAbDcBaBe fAgBbEbAaDeAd dGbBfAaDaEh lAaBaDeAaAcAaBe dGaAaAaAaBaAbCaAaAaBg dAeAbEbDaAbAcAbAe dAaCaAaBhCcFg dAaCaAbBaBbAbAbBbCaBe dAaCaAbAaAdDaAaAbCh dAeAbAaAbAbEbAl dGaBbBaAaAbFfAd yp yp yp yp",
             "style": {
-                "scale": 4
+                "scale": 4,
+				"margin-top": 0,
+				"margin-bottom": 0
             }
         },
 		{
@@ -44,7 +55,7 @@
 			"text": "*ScotchSauceHotSauce.com*",
             "style": {
                 "text-align": "center",
-				"margin-top": 10
+				"margin-top": 0
             }
 		},
         {
