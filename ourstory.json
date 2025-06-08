@@ -61,7 +61,7 @@
         },
         {
             "type": "paragraph",
-            "text": "Brogan recently interviewed on the podcast *Gettin' to Know the 570!* You can find the episode titled\n_Gettin' to Know Brogan Scotch: | Co-Owner of Scotch Sauce Based out of Scranton_",
+            "text": "Brogan recently interviewed on the podcast *Gettin' to Know the 570!* You can find the episode titled...",
             "style": {
                 "margin-top": 10,
                 "margin-bottom": 0
@@ -69,7 +69,7 @@
         },
         {
             "type": "paragraph",
-            "text": "_Gettin' to Know Brogan Scotch: | Co-Owner of Scotch Sauce Based out of Scranton_",
+            "text": "'_Gettin' to Know Brogan Scotch:\nCo-Owner of Scotch Sauce\nBased out of Scranton_'",
             "style": {
                 "text-align": "center",
                 "margin-top": 0,
@@ -80,9 +80,21 @@
             "type": "paragraph",
             "text": "wherever you get your podcasts...\n_Apple Podcasts\nSpotify\nGoogle Podcasts\nAmazon Music\nStitcher\nPandora\nBuzz Sprout",
             "style": {
-                "margin-top": 0,
+                "text-align": "right",
+                "margin-top": 10,
                 "margin-bottom": 10
             }
-        }
+        },
+        {
+            "type": "separator"
+        },
+        {
+			"type": "paragraph",
+			"text": "Content ©2025 Scotch Sauce LLC\nThis website built by Michael Avrie",
+            "style": {
+                "text-align": "center",
+				"margin-bottom": 80
+            }
+		}
 	]
 }
