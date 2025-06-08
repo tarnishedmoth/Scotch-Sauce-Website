@@ -21,10 +21,34 @@
             "text": "As a _Thank You!_ for visiting our Constellations site here on PlayDate, please enjoy an extra 10% off your order. Just use the *Coupon Code* below when you checkout. Hope you love it!"
         },
         {
+            "type": "image",
+            "width": 400,
+            "height": 16,
+            "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy",
+            "style": {
+                "scale": 2,
+                "margin-top": 0,
+                "margin-bottom": 0
+            }
+        },
+        {
             "type": "paragraph",
             "text": "*PL4YD473*",
             "style": {
-                "text-align": "center"
+                "text-align": "center",
+                "margin-top": 8,
+                "margin-bottom": 8
+            }
+        },
+        {
+            "type": "image",
+            "width": 400,
+            "height": 16,
+            "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy",
+            "style": {
+                "scale": 2,
+                "margin-top": 0,
+                "margin-bottom": 0
             }
         },
         {
