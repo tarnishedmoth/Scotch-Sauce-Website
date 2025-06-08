@@ -95,7 +95,7 @@
 		},
         {
 			"type": "paragraph",
-			"text": "Content ©2025 Scotch Sauce LLC",
+			"text": "Content ©2025 Scotch Sauce LLC\n_This particle built by Michael Avrie",
             "style": {
                 "text-align": "center",
 				"margin-top": 80,
