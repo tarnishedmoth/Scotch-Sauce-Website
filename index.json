@@ -27,7 +27,8 @@
 			"pixels": "yyyyyyyy yyyyyyyy cAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcA bAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAa aAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAb AcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAcAc yyyyyyyy yyyyyyyy",
 			"style": {
 				"margin-top": 0,
-				"margin-bottom": 0
+				"margin-bottom": 0,
+				"scale": 2
 			}
 		},
 		{
@@ -79,8 +80,15 @@
 			"action": "/Scotch-Sauce-Website/products/jerky"
 		},
         {
-            "type": "separator"
-        },
+			"type": "image",
+			"width": 400,
+			"height": 16,
+			"pixels": "YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy YYYYYYYYYYYYYYYY yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy yyyyyyyyyyyyyyyy",
+			"style": {
+				"margin-top": 0,
+				"margin-bottom": 0
+			}
+		},
         {
 			"type": "button",
 			"label": "Read Our Story",
