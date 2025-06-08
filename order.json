@@ -3,6 +3,16 @@
 	"title": "Get Happy!",
 	"content": [
         {
+            "type": "image",
+            "width": 200,
+            "height": 8,
+            "pixels": "AaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcA bBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBd fBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfB cBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaB BaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBc BfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBf dBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBfBb AcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaBcBaA",
+            "style": {
+                "margin-top": 0,
+                "margin-bottom": 0
+            }
+        },
+        {
             "type": "paragraph",
             "text": "You're in luck. It's easier than ever to order from anywhere you are, just... _not_ on your PD! Head to our website and you can browse the complete shop, see full-color photos, and get shipping right to your door."
         },
