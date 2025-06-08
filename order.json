@@ -14,6 +14,14 @@
             "text": "Sign up for emails and get 10% off your order!\nFree shipping on U.S. orders over $75."
         },
         {
+            "type": "paragraph",
+            "text": "_Find us on the World Wide Web!_",
+            "style": {
+                "text-align": "center",
+                "margin-bottom": 0
+            }
+        },
+        {
             "type": "image",
             "width": 37,
             "height": 37,
@@ -31,6 +39,14 @@
                 "scale": 2
             }
 		},
+        {
+            "type": "paragraph",
+            "text": "*ScotchSauceHotSauce.com",
+            "style": {
+                "text-align": "center",
+                "margin-top": 0
+            }
+        },
         {
 			"type": "paragraph",
 			"text": "Content ©2025 Scotch Sauce LLC",
