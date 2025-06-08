@@ -3,6 +3,62 @@
 	"title": "New!  Sauced-Up Jerky",
 	"content": [
         {
+			"type": "paragraph",
+			"text": "It's time to take your jerky game to the next level with Sauced-Up Jerky from Scotch Sauce! Sauced-Up Jerky is wet-marinated for at least 24 hours before hitting the dehydrator, ensuring each piece is flavorful and tender while still having the characteristic 'chew' that you expect from quality jerky.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Classic Beef* is our spin on a traditional beef jerky flavor, done better. Every bite is savory and flavorful with moderate saltiness.\n_Savory. Salty. Rich.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Happy Boy Beef* is marinated for _48 hours_ in our original Happy Boy hot sauce, then tossed in Happy Boy a second time near the end of the drying process for even _more_ flavor. It has a *medium* heat level balanced with sweet and savory notes. One bite and you'll understand what makes this jerky different!\n_Spicy. Savory. Zesty. Sweet.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Garlic Parmesan Happy Boy Beef* is marinated for _48 hours_ in our original Garlic Parmesan Happy Boy hot sauce, then tossed in more sauce a second time near the end of the drying process for even _more_ flavor. It has a *mild* heat level with a flavor that's buttery, cheesy, garlicky, and downright delicious. You've never had craft jerky like this before!\n_Mild. Buttery. Garlicky. Savory.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Extremely Happy Boy Beef* is marinated for _48 hours_ in our Extremely Happy Boy hot sauce, then tossed in more sauce a second time near the end of the drying process for even _more_ flavor. This flavor is as hot as it is flavorful, so if you like spicy snacks, then this one's for you!\n_Hot. Savory. Zesty. Sweet.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "*Korean Kandy Beef* hits you with sticky sweetness balanced with savory goodness in every bite. We warm it up with a touch of Korean chili flakes to round out the experience. This one will satisfy your salty and sweet cravings!\n_Sweet. Warm. Umami.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
+			"type": "paragraph",
+			"text": "_Complete allergen and ingredient information available on our website.",
+            "style": {
+				"margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+        {
 			"type": "image",
 			"width": 200,
 			"height": 8,
