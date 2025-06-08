@@ -4,14 +4,26 @@
 	"content": [
         {
             "type": "paragraph",
-            "text": "_Find us on the World Wide Web!_",
+            "text": "You're in luck. It's easier than ever to order from anywhere you are, just... _not_ on your PD! Head to our website and you can browse the complete shop, see full-color photos, and get shipping right to your door."
+        },
+        {
+            "type": "paragraph",
+            "text": "As a _Thank You!_ for visiting our Constellations site here on PlayDate, please enjoy an extra 10% off your order. Just use the *Coupon Code* below when you checkout. Hope you love it!"
+        },
+        {
+            "type": "paragraph",
+            "text": "*PL4YD473*",
             "style": {
                 "text-align": "center"
             }
         },
         {
             "type": "blockquote",
-            "text": "Sign up for emails and get 10% off your order!\nFree shipping on U.S. orders over $75."
+            "text": "Sign up for our email newsletter and get 10% off your order!"
+        },
+        {
+            "type": "blockquote",
+            "text": "Free shipping on U.S. orders over $75."
         },
         {
             "type": "paragraph",
