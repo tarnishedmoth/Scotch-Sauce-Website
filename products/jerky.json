@@ -1,13 +1,13 @@
 {
 	"format": "particle",
-	"title": "Sauced-Up Jerky",
+	"title": "New!  Sauced-Up Jerky",
 	"content": [
         {
             "type": "separator"
         },
         {
 			"type": "paragraph",
-			"text": "Content ©2025 Scotch Sauce LLC\nThis particle built by Michael Avrie",
+			"text": "Content ©2025 Scotch Sauce LLC",
             "style": {
                 "text-align": "center",
 				"margin-top": 80,
