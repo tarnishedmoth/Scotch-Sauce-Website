@@ -81,7 +81,9 @@
             "height": 37,
             "pixels": "yl yl yl yl dGcBaCcBaGd dAeAdAaFcAeAd dAaCaAaBaAaAaAdAaAaCaAd dAaCaAaAaBbBaAbAaAaCaAd dAaCaAaBaAcBaCaAaCaAd dAeAaBbAeAaAaAeAd dGaAaAaAaAaAaAaAaGd lAbBaAaAbBl dAaEeAcBaAbEf dAcAbAaBbCcFcAd fEbHdAbAh eAcAaGaAfDaAe eBaEaBbBaAaAcAaBf dEbAaBaAbBaGcAd dAaCaAaAbAeBaDaBf dAaBgAbAaAcBaAcAe fAbBaAcAdAgBf dAcBdAbCbCaCaAaAd dAaCaAbAaAaDcBaAbAf dAbAaAaDaBbAbAbAaAbAe dAcAaAaAcAaAbBaEaCd lAhBaAcEd dGbAaAcCaBaAaCf dAeAaAbBaCaCcAbAe dAaCaAaDeAbEaBe dAaCaAaBaBaAaAaBeDd dAaCaAaBaAbFaGe dAeAcAaCaAbCaAaAaAe dGaAbDbAaAdCf yl yl yl yl",
             "style": {
-                "scale": 4
+                "scale": 4,
+                "margin-top": 0,
+                "margin-bottom": 0
             }
         },
         {
