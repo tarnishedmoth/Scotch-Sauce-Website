@@ -98,8 +98,8 @@
             "height": 8,
             "pixels": "AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg AgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAg dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc dAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAgAc",
             "style": {
-                "margin-top": 0,
-                "margin-bottom": 0,
+                "margin-top": 20,
+                "margin-bottom": 20,
                 "scale": 2
             }
         },
@@ -108,7 +108,7 @@
 			"text": "*Real Ingredients Make All the Difference*",
 			"style": {
 				"text-align": "center",
-                "margin-top": 40,
+                "margin-top": 20,
 				"margin-bottom": 20
 			}
 		},
