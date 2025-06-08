@@ -2,6 +2,70 @@
 	"format": "particle",
 	"title": "Shop - Apparel",
 	"content": [
+		{
+			"type": "paragraph",
+			"text": "*SCOTCH SAUCE TEE* (BLACK)",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+		{
+			"type": "paragraph",
+			"text": "Represent Scotch Sauce to the world with this super comfortable black tee!",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+		{
+			"type": "list",
+			"items": [
+				"Unisex sizing",
+				"100% combed and ringspun cotton",
+				"Features Scotch Sauce logo on left chest"
+			]
+		},
+		{
+			"type": "paragraph",
+			"text": "Available sizes include M, L, XL, & XXL. Additional sizes available upon request. Increased pricing may apply.",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+		{
+			"type": "paragraph",
+			"text": "*HAPPY BOY TEE* (PINE)",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+		{
+			"type": "paragraph",
+			"text": "Show off your love of Happy Boy Hot Sauce with this super comfortable pine green tee!",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
+		{
+			"type": "list",
+			"items": [
+				"Unisex sizing",
+				"100% combed and ringspun cotton",
+				"Features Happy Boy logo on whole chest"
+			]
+		},
+		{
+			"type": "paragraph",
+			"text": "Available sizes include M, L, XL, & XXL. Additional sizes available upon request. Increased pricing may apply.",
+			"style": {
+                "margin-top": 20,
+				"margin-bottom": 20
+            }
+		},
         {
 			"type": "button",
 			"label": "Order online!",
