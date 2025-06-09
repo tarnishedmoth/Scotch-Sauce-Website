@@ -166,12 +166,21 @@
 			}
 		},
 		{
+			"type": "image",
+			"width": 200.0,
+			"height": 8.0,
+			"pixels": "YYYYYYYY aBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBa YYYYYYYY AbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbA YYYYYYYY aBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBa YYYYYYYY AbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbA",
+			"style": {
+				"scale": 2.0,
+				"margin-top": 0,
+				"margin-bottom": 0
+			}
+		},
+		{
 			"type": "paragraph",
 			"text": "Content ©2025 Scotch Sauce LLC",
 			"style": {
-				"text-align": "center",
-				"margin-top": 80.0,
-				"margin-bottom": 80.0
+				"text-align": "center"
 			}
 		}
 	]
