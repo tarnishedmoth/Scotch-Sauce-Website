@@ -78,6 +78,17 @@
 			}
 		},
         {
+            "type": "image",
+            "width": 200,
+            "height": 20,
+            "pixels": "yyyxAyyyy yyywAyyyya yyyvCyyyy yyyvCyyyy yyyuEyyyx yyyuEbAyyyu yyyuIyyyt yyyrAbIyyyt yyyqGbDyyyt yyyqFdDyyys yyyqFaBbCyyys yyyqDaAbBbByyys yyyrBbBaBcByyyr yyyrBbBbBaByyys yyysBbBbCyyyt yyytBbAbByyyu yyyuBcByyyv yyyvBaByyyw yyywCyyyx yyyxAyyyy",
+            "style": {
+                "scale": 1,
+                "margin-top": 0,
+				"margin-bottom": 0
+			}
+        },
+        {
             "type": "paragraph",
             "text": "The Original Happy Boy is all about balance. Some hot sauces are garlic-heavy. Others have a strong vinegar profile. Some are just melt-your-face-off hot, while many are too mild with no substance. Take one taste of Happy Boy, though, and you’ll see why it’s different.\n\nThe Original Happy Boy balances a medium heat level with all the flavor notes you could want in a hot sauce. At first taste, you’ll experience the familiar tang of a vinegar-based pepper sauce that is quickly boosted with notes of fresh garlic. Then, a zesty, savory dimension takes the stage thanks to our proprietary 8-ingredient seasoning blend. Last but certainly not least, you’ll get a subtle sweetness from brown sugar. All of these flavor notes are tied together with the smooth taste of real butter.\n\nIt’s a balancing act that took a few years of passionate trial and error to get just right. But it's all worth it every time we see the look on people’s faces when they try Happy Boy Hot Sauce for the first time!"
         },
@@ -124,8 +135,30 @@
 			}
 		},
         {
+            "type": "image",
+            "width": 200,
+            "height": 20,
+            "pixels": "yyyxAyyyy yyywAyyyya yyyvCyyyy yyyvCyyyy yyyuEyyyx yyyuEbAyyyu yyyuIyyyt yyyrAbIyyyt yyyqGbDyyyt yyyqFdDyyys yyyqFaBbCyyys yyyqDaAbBbByyys yyyrBbBaBcByyyr yyyrBbBbBaByyys yyysBbBbCyyyt yyytBbAbByyyu yyyuBcByyyv yyyvBaByyyw yyywCyyyx yyyxAyyyy",
+            "style": {
+                "scale": 1,
+                "margin-top": 0,
+				"margin-bottom": 0
+			}
+        },
+        {
             "type": "paragraph",
             "text": "Mass-produced hot sauces may get the job done at an attractive price point, but take a look at the ingredients—so many off the shelf products today contain _seed oils, preservatives, and artificial flavorings._\n\nYou don’t need that garbage!\n\nDon’t you think it’s time to improve your hot sauce collection with something delicious AND real? Here’s what’s in every bottle of Happy Boy:"
+        },
+        {
+            "type": "image",
+            "width": 200,
+            "height": 20,
+            "pixels": "yyyxAyyyy yyywAyyyya yyyvCyyyy yyyvCyyyy yyyuEyyyx yyyuEbAyyyu yyyuIyyyt yyyrAbIyyyt yyyqGbDyyyt yyyqFdDyyys yyyqFaBbCyyys yyyqDaAbBbByyys yyyrBbBaBcByyyr yyyrBbBbBaByyys yyysBbBbCyyyt yyytBbAbByyyu yyyuBcByyyv yyyvBaByyyw yyywCyyyx yyyxAyyyy",
+            "style": {
+                "scale": 1,
+                "margin-top": 0,
+				"margin-bottom": 0
+			}
         },
         {
             "type": "list",
@@ -161,6 +194,17 @@
 				"text-align": "center",
                 "margin-top": 40,
 				"margin-bottom": 20
+			}
+        },
+        {
+            "type": "image",
+            "width": 200,
+            "height": 20,
+            "pixels": "yyyxAyyyy yyywAyyyya yyyvCyyyy yyyvCyyyy yyyuEyyyx yyyuEbAyyyu yyyuIyyyt yyyrAbIyyyt yyyqGbDyyyt yyyqFdDyyys yyyqFaBbCyyys yyyqDaAbBbByyys yyyrBbBaBcByyyr yyyrBbBbBaByyys yyysBbBbCyyyt yyytBbAbByyyu yyyuBcByyyv yyyvBaByyyw yyywCyyyx yyyxAyyyy",
+            "style": {
+                "scale": 1,
+                "margin-top": 0,
+				"margin-bottom": 0
 			}
         },
         {
