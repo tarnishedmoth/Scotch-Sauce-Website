@@ -7,7 +7,7 @@
 			"text": "*SCOTCH SAUCE TEE* (BLACK)",
 			"style": {
                 "margin-top": 20,
-				"margin-bottom": 20
+				"margin-bottom": 16
             }
 		},
 		{
@@ -21,11 +21,11 @@
             }
 		},
 		{
-			"type": "paragraph",
+			"type": "blockquote",
 			"text": "Represent Scotch Sauce to the world with this super comfortable black tee!",
 			"style": {
                 "margin-top": 20,
-				"margin-bottom": 20
+				"margin-bottom": 8
             }
 		},
 		{
@@ -38,9 +38,9 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "Available sizes include M, L, XL, & XXL. Additional sizes available upon request. Increased pricing may apply.",
+			"text": "Available sizes include M, L, XL, & XXL.\nAdditional sizes available upon request.\nIncreased pricing may apply.",
 			"style": {
-                "margin-top": 20,
+                "margin-top": 8,
 				"margin-bottom": 20
             }
 		},
@@ -59,7 +59,7 @@
 			"text": "*HAPPY BOY TEE* (PINE)",
 			"style": {
                 "margin-top": 20,
-				"margin-bottom": 20
+				"margin-bottom": 16
             }
 		},
 		{
@@ -73,11 +73,11 @@
             }
 		},
 		{
-			"type": "paragraph",
+			"type": "blockquote",
 			"text": "Show off your love of Happy Boy Hot Sauce with this super comfortable pine green tee!",
 			"style": {
                 "margin-top": 20,
-				"margin-bottom": 20
+				"margin-bottom": 8
             }
 		},
 		{
@@ -90,9 +90,9 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "Available sizes include M, L, XL, & XXL. Additional sizes available upon request. Increased pricing may apply.",
+			"text": "Available sizes include M, L, XL, & XXL.\nAdditional sizes available upon request.\nIncreased pricing may apply.",
 			"style": {
-                "margin-top": 20,
+                "margin-top": 8,
 				"margin-bottom": 20
             }
 		},
