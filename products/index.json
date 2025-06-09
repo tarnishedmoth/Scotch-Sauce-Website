@@ -14,12 +14,14 @@
 			}
         },
         {
-			"type": "paragraph",
-			"text": "*HOT SAUCES*",
-            "style": {
-                "text-align": "center",
-				"margin-top": 10,
-                "margin-bottom": 10
+			"type": "image",
+			"width": 200,
+			"height": 20,
+			"pixels": "AaAyyyyyyyiAhAaAa aAaAyyyyyyygAjAaA AaAyyyyyyygChAaAa aAaAyyyyyyyfCiAaA DyyyyyyyeEk DgEcEnBkFyyyyybEbAh DiAfBpBjBcByyyyybIg DiAfBpBiBeAyyyyxAbIg AaAjAfBfEcGfBeAdEcDbCfDdDfEyywGbDcAaAa aAaAiAfBeBcBdBjBiAcBdBcBdBcAcBbBdAcByywFdDcAaA AaAjIdBdBdBjEkAdBdAcBgBdBbBdAyywFaBbCbAaAa aAaAiAfBdBeBcBmDiAdBdAcBgBdBbCyyybDaAbBbBcAaA DiAfBdBeBcBoCdEdBdAcBgHcEyyyBbBaBcBe DiAfBdBeBcBiAfBbBdAdBdAcBgBlCyyxBbBbBaBf DiAfBdBeAdBiAfBbBdAdBdAcBgBhAeAyyyBbBbCg DiAfBeBcBdBiBdBcBcBdBcCcBcBbBdAbBcByyyaBbAbBh AaAhEcEdDgChFeDaCcDaCcDeEcEyyydBcBeAaAa aAaAyyyyyyyfBaBgAaA AaAyyyyyyyhCgAaAa aAaAyyyyyyyhAiAaA",
+			"style": {
+                "scale": 2,
+				"margin-top": 0,
+                "margin-bottom": 0
 			}
 		},
         {
@@ -73,12 +75,14 @@
 			}
         },
         {
-			"type": "paragraph",
-			"text": "*SAUCED-UP JERKY*",
-            "style": {
-                "text-align": "center",
-				"margin-top": 20,
-                "margin-bottom": 10
+			"type": "image",
+			"width": 200,
+			"height": 20,
+			"pixels": "AaAyyyyyyyiAhAaAa aAaAyyyyyyygAjAaA AaAyyyyyyygChAaAa aAaAyyyyyyyfCiAaA DyykDyylByyaEk DjFyvBiDcEqEtAyyaEbAh DiAdByvBjBfAuAvAyyaIg DhBeAcEcCcCeEdDeFjBfAcBaDkAfDcCaCbAcCaDbDyfAbIg AaAiBiAcBdAdBdAcBcAcBcBcBjBfAdBcBjAeAcBcCbAbAcBcBdAygGbDcAaAa aAaAiCkBdAdBcBgBdAbBdBjBfAdBdBiAdBdAcBfAbBeBcAygFdDcAaA AaAkEhBdAdBcBgAeAbBdBjBfAdBdBiAdAeAcBfAaBfBcAygFaBbCbAaAa aAaAmCdEdAdBcBgHaBdBbEcBfAdBdBiAdHbBfDgAbAyhDaAbBbBcAaA DhAeBbBcBdAdBcBgBgBdBjBfAdBdBiAdBhBfAbBfBaAyiBbBaBcBe DhAfAbBcBdAdBcBgBgBdBjBfAdBdAjAdBhBfAcBfCyiBbBbBaBf DhBdBbBcBdBcBdBcAcBcBbBbCkBdAeBcBjAeBcBbBfAdAfBykBbBbCg DiEeDaBdGdDeDdDaCkEfFkAfDcDdDaDeAylBbAbBh AaAyyynBoAyiAynBcBeAaAa aAaAyyymBnByiAyoBaBgAaA AaAyyynBkCyhDypCgAaAa aAaAyyylDyuCyrAiAaA",
+			"style": {
+                "scale": 2,
+				"margin-top": 0,
+                "margin-bottom": 0
 			}
 		},
         {
@@ -158,12 +162,14 @@
 			}
         },
         {
-			"type": "paragraph",
-			"text": "*APPAREL*",
-            "style": {
-                "text-align": "center",
+			"type": "image",
+			"width": 200,
+			"height": 20,
+			"pixels": "AaAyyyyyyyiAhAaAa aAaAyyyyyyygAjAaA AaAyyyyyyygChAaAa aAaAyyycDyyyxCiAaA DtByyhByyywEk DtByyhByyywEbAh DtCyygByyywIg DsAaBeHcHdEdCaCdDeByyytAbIg AaAtAbAfBcCcBcCcAcBdCbAcBbBdByyysGbDcAaAa aAaArAcBeBdBcBdBhAdBfBdBcByyysFdDcAaA AaAsAcBeBdBcBdBhAdBfBdBcByyysFaBbCbAaAa aAaArGdBdBcBdBdEdBfHcByyysDaAbBbBcAaA DqAeBdBdBcBdBbBdAdBfBiByyytBbBaBcBe DqAfBcBdBcBdBbBdAdBfBiByyytBbBbBaBf DpAgBcBcBdBcBcBcBdBgBdAcByyyuBbBbCg DoDdDbFeFeDaCaEfEcDyyyuBbAbBh AaAyeBiByyyyymBcBeAaAa aAaAydBiByyyyynBaBgAaA AaAyeBiByyyyyoCgAaAa aAaAycDgDyyyyyoAiAaA",
+			"style": {
+                "scale": 2,
 				"margin-top": 14,
-                "margin-bottom": 20
+                "margin-bottom": 0
 			}
 		},
         {
