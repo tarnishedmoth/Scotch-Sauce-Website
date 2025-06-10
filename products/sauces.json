@@ -28,14 +28,18 @@
             "height": 20,
             "pixels": "yyyxAyyyy yyywAyyyya yyyvCyyyy yyyvCyyyy yyyuEyyyx yyyuEbAyyyu yyyuIyyyt yyyrAbIyyyt yyyqGbDyyyt yyyqFdDyyys yyyqFaBbCyyys yyyqDaAbBbByyys yyyrBbBaBcByyyr yyyrBbBbBaByyys yyysBbBbCyyyt yyytBbAbByyyu yyyuBcByyyv yyyvBaByyyw yyywCyyyx yyyxAyyyy",
             "style": {
-                "scale": 2,
-                "margin-top": 0,
-				"margin-bottom": 0
+                "scale": 1,
+                "margin-top": 10,
+				"margin-bottom": 10
 			}
         },
         {
             "type": "paragraph",
-            "text": "If you're anything like us, then a delicious hot sauce is something that truly makes you happy. We know the feeling, and that's why we crafted Happy Boy Hot Sauce to be your new go-to pepper sauce. Those who know, click below:"
+            "text": "If you're anything like us, then a delicious hot sauce is something that truly makes you happy. We know the feeling, and that's why we crafted Happy Boy Hot Sauce to be your new go-to pepper sauce. Those who know, click below:",
+            "style":{
+                "margin-top": 0,
+                "margin-bottom": 0
+            }
         },
         {
 			"type": "button",
