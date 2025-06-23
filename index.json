@@ -107,6 +107,11 @@
 			"action": "/Scotch-Sauce-Website/partners"
 		},
 		{
+			"type": "button",
+			"label": "TEST",
+			"action": "/Scotch-Sauce-Website/blurbs/test"
+		},
+		{
 			"type": "image",
 			"width": 400.0,
 			"height": 16.0,
